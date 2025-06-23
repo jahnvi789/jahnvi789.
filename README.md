@@ -8,3 +8,4 @@
 🔗 [LinkedIn](https://www.linkedin.com/in/jahnvi-jaiswal-b164b82b1/)
 
 Always curious, always building.
+Cleaned and formatted README
